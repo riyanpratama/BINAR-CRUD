@@ -1,0 +1,6 @@
+framework module Pods_BINARJsonTests {
+  umbrella header "Pods-BINARJsonTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
